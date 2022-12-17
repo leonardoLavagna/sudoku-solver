@@ -1,6 +1,6 @@
 # sudoku-solver
 
-A program (in Italian) to automatically solve sudokus! The surce code is in `sudoku.c` that you can run interactively here: https://www.onlinegdb.com/IxcNlN-wH](https://www.onlinegdb.com/IxcNlN-wH). To input any sudoku procede raw by raw putting 0 when a number is not given. As an example you can try the following sudoku 
+A program (in Italian) to automatically solve sudokus! The surce code is in `sudoku.c` that you can run interactively here: https://www.onlinegdb.com/IxcNlN-wH](https://www.onlinegdb.com/IxcNlN-wH. To input any sudoku procede raw by raw putting 0 when a number is not given. As an example you can try the following sudoku 
 
 <img width="263" alt="Schermata 2022-12-17 alle 19 21 17" src="https://user-images.githubusercontent.com/91341004/208255944-74af75cc-2b8a-4b0e-96b0-8270608110c7.png">
 
